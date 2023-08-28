@@ -1,0 +1,7 @@
+aiogram
+https://pypi.org/project/aiogram/
+https://docs.aiogram.dev/en/latest/index.html
+
+pytube
+https://pypi.org/project/pytube/12.1.3/
+https://pytube.io/en/latest/
