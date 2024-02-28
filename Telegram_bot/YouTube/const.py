@@ -12,7 +12,7 @@
 '''
 
 
-TOKEN = "6218093072:AAHR9dUmAo24AcMOmWIl-QIGe3Ln2btGQuA" # Токен бота от BotFather
+TOKEN = "" # Токен бота от BotFather
 
 TEXT_FOR_HELP = '''
 Список доступных команд:
